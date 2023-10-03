@@ -11,7 +11,7 @@ setuptools.setup(
     description='A compilation of Humai utility functions',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/institutohumai/humai_utils',
+    url='https://github.com/Javier-Rivasseau/humai_utils',
     project_urls = {
         "Bug Tracker": "https://github.com/institutohumai/humai_utils/issues"
     },
