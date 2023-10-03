@@ -1,1 +1,1 @@
-from .funcions import informar_clase, saludar_comunidad
+from .functions import informar_clase, saludar_comunidad
