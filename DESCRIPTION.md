@@ -1,0 +1,1 @@
+Este paquete de python importa dos funciones una saludar, y otra informar el dia de la clase.
